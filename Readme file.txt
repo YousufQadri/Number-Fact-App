@@ -1,4 +1,4 @@
-# Read me #
+# Read me 
 
-## Tells you about _number_ fact that you entered ## 
+## Tells you about _number_ fact that you entered 
 
